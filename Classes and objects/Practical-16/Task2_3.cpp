@@ -12,4 +12,6 @@ int main()
 	} 
 	
 	return 0;
-}
+} 
+/* There's no type conversion when exceptions are caught.
+   Hence, error occurs.*/
